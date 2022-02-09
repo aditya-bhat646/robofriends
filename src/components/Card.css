@@ -1,0 +1,8 @@
+#root {
+    text-align: center;
+    font-family: monospace;
+}
+
+.Card-body {
+    display: inline-block;
+}
